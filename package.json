@@ -1,0 +1,12 @@
+{
+  "name": "tsk2",
+  "version": "1.0.0",
+  "description": "## Description This project demonstrates the use of .gitignore and README.md files in Git with Javascript.",
+  "main": "using.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
