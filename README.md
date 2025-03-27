@@ -1,3 +1,1 @@
-# scm_practical
-Task 1.1
-For lectures 01 - 12
+This is my contribution.
